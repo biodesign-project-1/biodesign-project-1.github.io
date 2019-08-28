@@ -5,9 +5,9 @@ layout: default
 
 ### GRUPO 01
 
-><div style="text-align: justify"><strong>Desafío 1: Desarrollar una solución tecnológica eficaz para pacientes adolescentes que presentan escoliosis idiopática moderada, que mejore la adherencia al tratamiento de rehabilitación | Sede: Instituto Nacional de Rehabilitación (INR)</div>
+><div style="text-align: justify">Desafío 1: Desarrollar una solución tecnológica eficaz para pacientes adolescentes que presentan escoliosis idiopática moderada, que mejore la adherencia al tratamiento de rehabilitación | Sede: Instituto Nacional de Rehabilitación (INR)</div>
 
-><div style="text-align: justify"><strong>Desafío 2: Evaluación de Tecnología y Aseguramiento de la Calidad de la Monitorización Electrocardiografica en la Unidad de Cuidados Intensivos - Area de Emergencia | Sede: Clínica Angloamericana</div>
+><div style="text-align: justify">Desafío 2: Evaluación de Tecnología y Aseguramiento de la Calidad de la Monitorización Electrocardiografica en la Unidad de Cuidados Intensivos - Area de Emergencia | Sede: Clínica Angloamericana</div>
 
 ><div style="text-align: justify">Desafío 3: Planificación y Gestión de la Tecnología en Salud para adquisición y  manteniemiento: Desfibrilador con Sistema de Baterías (Hospitalización y Cirujía) | Sede: Clínica Angloamericana</div>
 
