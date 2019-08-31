@@ -1,3 +1,3 @@
 # Blog de "Proyecto de Biodiseño 1"
 
->[28-08-19 | ¡Presentación de Desafíos! por Pablo Moreno](/blog_280819.html)
+>[28-08-19 | ¡Presentación de Desafíos! por Pablo Moreno](/blog/blog_280819.md)
