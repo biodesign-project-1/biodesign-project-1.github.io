@@ -5,7 +5,7 @@ layout: default
 
 ### GRUPO 01
 
->**Desafío 1:** Desarrollar una solución tecnológica eficaz para pacientes adolescentes que presentan escoliosis idiopática moderada, que mejore la adherencia al tratamiento de rehabilitación. Sede: Instituto Nacional de Rehabilitación (INR)
+>**Desafío 1:** Desarrollo de una solución tecnológica eficaz para pacientes adolescentes que presentan escoliosis idiopática moderada, que mejore la adherencia al tratamiento de rehabilitación. Sede: Instituto Nacional de Rehabilitación (INR)
 >
 >**Desafío 2:** Evaluación de Tecnología y Aseguramiento de la Calidad de la Monitorización Electrocardiografica en la Unidad de Cuidados Intensivos - Area de Emergencia. Sede: Clínica Angloamericana
 >
