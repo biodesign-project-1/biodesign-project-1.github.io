@@ -11,9 +11,9 @@
 * **Clínica Angloamericana:** José Mujica
 
 **Instituciones**
- ![IPD](./images/ipd.jpg)
- ![Anglo](./images/clinica-anglo.png)
- ![INR](./images/inr.jpg)
- ![2Mayo](./images/hosp_2mayo.png)
+ ![IPD](/images/ipd.jpg)
+ ![Anglo](/images/clinica-anglo.png)
+ ![INR](/images/inr.jpg)
+ ![2Mayo](/images/hosp_2mayo.png)
           
 
