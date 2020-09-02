@@ -3,7 +3,7 @@ layout: default
 ---
 ## Listado de Equipos
 
-[Clase 2020-II - Coordinador: Pablo Moreno, Luis Peña](https://biodesign-project-1.github.io/equipos/2020_2.html)
+[Clase 2020-II - Coordinadores: Pablo Moreno, Luis Peña](https://biodesign-project-1.github.io/equipos/2020_2.html)
 
 **Asesores:**
 * Rossana Rivas
