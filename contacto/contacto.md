@@ -2,7 +2,7 @@
 
 **Coordinador:** Pablo Moreno
 
-**Charlas magistrales**: Luis Peña
+**Charlas Magistrales**: Luis Peña
 
 **Asistencia Técnica:** Juan Manuel Zuñiga, Guillermo Cajo
 
