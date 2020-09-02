@@ -15,7 +15,7 @@ layout: default
 * Pierre Padilla
 * Pablo Fonseca
 
-[Clase 2019-II - Coordinador: Pablo Moreno](https://biodesign-project-1.github.io/equipos/2019_2.html) 
+[Clase 2019-II - Coordinadores: Pablo Moreno, Luis Peña](https://biodesign-project-1.github.io/equipos/2019_2.html) 
  
 **Asesores:**
 * UPCH: Rossana Rivas, José Ferrer, Ivan Calle, Pierre Padilla
