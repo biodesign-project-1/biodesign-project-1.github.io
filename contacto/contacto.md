@@ -6,6 +6,7 @@
 
 **Asesores:**
 * Rossana Rivas
+* Leopoldo Yabar
 * Pamela Obando
 * José Ferrer
 * Ivan Calle
