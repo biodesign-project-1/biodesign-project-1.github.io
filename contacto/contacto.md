@@ -1,8 +1,6 @@
 ## COORDINACIÓN
 
-**Coordinador:** Pablo Moreno
-
-**Charlas Magistrales**: Luis Peña
+**Coordinadores:** Pablo Moreno, Luis Peña
 
 **Asistencia Técnica:** Juan Manuel Zuñiga, Guillermo Cajo
 
