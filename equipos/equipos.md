@@ -3,7 +3,7 @@ layout: default
 ---
 ## Listado de Equipos
 
-![Clase 2019-II - Coordinadores: Pablo Moreno](https://biodesign-project-1.github.io/equipos/2019_2.html) 
+[Clase 2019-II - Coordinadores: Pablo Moreno](https://biodesign-project-1.github.io/equipos/2019_2.html) 
 
 **Comité Técnico:** Rossana Rivas, José Ferrer, Ivan Calle, Pierre Padilla
 
