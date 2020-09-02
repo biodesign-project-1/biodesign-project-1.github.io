@@ -2,6 +2,8 @@
 
 **Coordinador:** Pablo Moreno
 
+**Charlas magistrales**: Luis Peña
+
 **Asistencia Técnica:** Juan Manuel Zuñiga, Guillermo Cajo
 
 **Asesores:**
