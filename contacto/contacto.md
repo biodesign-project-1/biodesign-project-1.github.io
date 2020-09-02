@@ -1,14 +1,21 @@
 ## COORDINACIÓN
 
-**Coordinadores:** Pablo Moreno, Luis Peña, Michael Cieza
+**Coordinador:** Pablo Moreno
 
-**Comité Técnico:** Rossana Rivas, José Ferrer, Ivan Calle, Pierre Padilla
-
-**Asistencia Técnica:** Jean Pierre Tincopa, Juan Manuel Zuñiga, Guillermo Cajo
+**Asistencia Técnica:** Juan Manuel Zuñiga, Guillermo Cajo
 
 **Asesores:**
-* **Instituto Nacional de Rehabilitación:** Rosa Montalvo, Karen Amaya
-* **Instituto Peruano del Deporte:** Alberto Tejada, Giacomo Lavaggi
-* **Hospital 2 de Mayo:** Rosario Kiyohara, Karina Artica
-* **Clínica Angloamericana:** José Mujica
+* Rossana Rivas
+* Pamela Obando
+* José Ferrer
+* Ivan Calle
+* Pierre Padilla
+* Pablo Fonseca
+* Pedro Segura
+
+**Invitado/as:**
+* Rosa Montalvo, Karen Amaya - **Instituto Nacional de Rehabilitación** 
+* Karina Artica - **Hospital Dos de Mayo** 
+* Irvin Acuña - **Hospital Sabogal**
+* Rolig Aliaga - **Hospital Arzobispo Loayza**
 
