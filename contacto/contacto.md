@@ -2,7 +2,7 @@
 
 **Coordinadores:** Pablo Moreno, Luis Peña
 
-**Asistencia Técnica:** Juan Manuel Zuñiga, Guillermo Cajo
+**Asistencia Técnica:** Manuel Zuñiga, Guillermo Cajo
 
 **Asesores:**
 * Rossana Rivas
