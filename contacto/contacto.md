@@ -1,6 +1,6 @@
 ## COORDINACIÓN
 
-**Coordinadores:** Pablo Moreno, Luis Peña
+**Coordinadores:** Pablo Moreno Romani, Luis Peña
 
 **Asistencia Técnica:** Manuel Zuñiga, Guillermo Cajo
 
