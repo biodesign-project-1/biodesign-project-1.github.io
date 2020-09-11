@@ -57,5 +57,5 @@ robótico ROS.</div>
 
 ![Alt text](/instructors/leopoldo_yabar.jpg){:height="140px" width="140px"}
 
-* Leopoldo Yabar | rossana.rivas@upch.pe
+* Leopoldo Yabar | leopoldo.yabar@upch.pe
 ><div style="text-align: justify">Master en Administración de Empresas (MBA). Estudios de Maestría en Ingeniería Biomédica en el área de actuación de Ingeniería Clínica e Ingeniería Hospitalaria en Sao Paulo – Brasil. Ingeniero Electrónico. Perteneció al staff de docentes e investigadores del Instituto de Bioelectrónica en Argentina. Fundador y ex jefe del Laboratorio de Bioingeniería de la PUCP. Co fundador y ex catedrático de la Maestría en Ingeniería Biomédica de la PUCP. Fundador y ex jefe de la primera Unidad de Ingeniería Clínica del Instituto de Salud del Niño en el Perú. Fundador y ex coordinador del Grupo de I&D en ingeniería biomédica de la UTP.</div> 
