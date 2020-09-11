@@ -36,7 +36,7 @@
 ><div style="text-align: justify">Bióloga con especialización en Microbiología Ambiental y Biología Molecular. Experiencia en Investigación en microorganismos, aislamiento, identificación, cultivo y diseño genético para fines didácticos e industriales. Utilización de herramientas moleculares y bioquímicos en organismos superiores con fines de identificación y cuantificación de marcadores de interés comercial.</div> 
 
 
-![Alt text](/instructors/ivan_calle.jpg){:height="140px" width="140px"}
+![Alt text](/instructors/ivan_calle.png){:height="140px" width="140px"}
 
 * Ivan Calle | ivan.calle@upch.pe 
 ><div style="text-align: justify">Ingeniero Mecatrónico colegiado con grado de maestría en Automática e Instrumentación,
