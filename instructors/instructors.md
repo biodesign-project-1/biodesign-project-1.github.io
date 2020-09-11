@@ -1,7 +1,7 @@
 ---
 layout: instructor
 ---
-### Coordinador General - Procesos de Innovacion en BioIngenieria
+### Coordinador del Curso - Proyectos de Biodiseño 1
 ![Alt text](/instructors/pablo_moreno.png){:height="140px" width="140px"}
 
 Pablo Moreno Romani
