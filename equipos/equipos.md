@@ -3,7 +3,7 @@ layout: default
 ---
 ## Listado de Equipos
 
-[Clase 2021-II - Coordinador: Ivan Calle](https://biodesign-project-1.github.io/equipos/2020_2.html)
+[Clase 2021-II - Coordinador: Ivan Calle](https://biodesign-project-1.github.io/equipos/2021_2.html)
 
 **Asesores:**
 * Luis Peña
