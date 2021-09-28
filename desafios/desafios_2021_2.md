@@ -11,7 +11,7 @@ layout: default
 
 ### GRUPO 02
 
->**Desafío 2:** .
+>**Desafío 2:** Detector de convulsiones Toniclónicas orientado a niños (adultos) con epilepsia/ Parámetros biomecánicos de la marcha/ Sistema Diagnostico Retinopatia Bebe Prematuro / Insuficiencia cardiaca.
 
 
 ### GRUPO 03
@@ -20,4 +20,5 @@ layout: default
 
 ### GRUPO 04
 
->**Desafío 4:** .
+>**Desafío 4:** Signos vitales ad hoc para niños durante intervención quirúrgica/ Convulsiones Toniclónicas orientado a niños (adultos) con epilepsia/ Parámetros biomecánicos de
+la marcha.
